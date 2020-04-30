@@ -1,0 +1,30 @@
+{
+  "name": "viennalate.blogspot.com",
+  "short_name": "Vienalatte",
+  "start_url": "https://viennalate.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4267b2",
+  "description": "Something that feels good to me I will share my pleasure for you.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-OMx6JG69BA8/XIpTaZw_U-I/AAAAAAAAEaU/ED4G-xSI5pADVHIuGIktZsJEwJdQzZ3swCLcBGAs/s32/32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-VQhTmSDHC6s/XIpTaWyk2SI/AAAAAAAAEaQ/rVKxDPlt6DoHDTt_-7KFGU4J-jmrB6xMwCLcBGAs/s180/180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-d5nboAUJBGg/XIpTaZ5ZbVI/AAAAAAAAEaY/5n5wMcIFRRg7pj-HfnMRGGDWYJiIr3LkQCLcBGAs/s192/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c3UN9En5pd8/XIpTDhwwOWI/AAAAAAAAEaI/xhe3nG5PtuYp_upzCxDPr0-p6FxYVzXPACLcBGAs/s270/270x270.png",
+    "sizes": "270x270",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EBqgpQp4sag/XQfpPD6UlBI/AAAAAAAAB6M/1wat2WyLft01ESPYpAFD52FomHfy3q9gwCLcBGAs/s300/Logo.png",
+    "sizes": "300x300",
+    "type": "image/png"
+  }]
+}
